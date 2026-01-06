@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8" />
-  <title>THIRAN – Self‑Discovery & Career Alignment Platform</title>
+  
 </head>
 <body>
 
