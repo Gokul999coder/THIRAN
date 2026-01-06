@@ -30,9 +30,12 @@ export default function LoginPage({ onLogin }: LoginPageProps) {
       >
         <Card className="w-full max-w-md p-8 shadow-xl rounded-2xl bg-white">
           <div className="text-center mb-8">
-            <h1 className="text-3xl mb-2 bg-gradient-to-r from-blue-600 to-teal-600 bg-clip-text text-transparent">
-              Youth Profiling
-            </h1>
+            <div className="flex items-center justify-center gap-2 mb-2">
+            <span className="text-3xl">🧠</span>
+              <h1 className="text-3xl bg-gradient-to-r from-blue-600 to-teal-600 bg-clip-text text-transparent">
+                THIRAN
+              </h1>
+            </div>
             <p className="text-gray-600">Welcome back! Please login to continue</p>
           </div>
 
