@@ -130,12 +130,7 @@
     <li>Firebase Storage (Resumes)</li>
   </ul>
 
-  <h3>AI / Logic (Planned)</h3>
-  <ul>
-    <li>Scikit‑learn models</li>
-    <li>TensorFlow Lite</li>
-    <li>Rule‑based explainability</li>
-  </ul>
+  
 
   <h3>Deployment</h3>
   <ul>
@@ -143,10 +138,7 @@
     <li>Google Cloud Run (if required)</li>
   </ul>
 
-  <p>
-    <strong>Note:</strong> For hackathon submission, the current version focuses on a
-    frontend prototype with simulated backend behavior.
-  </p>
+  
 
   <hr />
 
